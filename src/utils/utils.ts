@@ -1,0 +1,1 @@
+export const getAssetUrl = (url: string) => `/src/assets/${url}`;
